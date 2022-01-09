@@ -17,4 +17,6 @@ slmgr /skms
 echo [##############      ] 60%%
 slmgr /ato
 echo [####################] 100%%
+echo Done!
+echo Please reboot system when you're ready!
 pause
